@@ -67,9 +67,13 @@ interpreter, iterator, memento, template method, command, visitor, strategy y me
 ¿Cuáles son los patrones y cuál seleccionar?
 Según el libro de GoF hay 5 enfoques principales:
 -Repositorios de patrones y catálogos de patrones (disponibles en línea)
+
 -Sistemas de recomendación (según una recomendación específica)
+
 -Lenguajes formales (algunos utilizan lenguajes formales)
+
 -Motores de búsqueda (Utilizan motores de búsqueda)
+
 -Otros enfoques (no clasificables)
 
 Algunas cosas buenas a considerar cuando se selecciona un patrón son:
