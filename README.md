@@ -49,8 +49,11 @@ Los patrones estructurales de creación de clases utilizan la herencia para comp
 que los patrones estructurales de objetos definen formas de componer objetos para obtener nuevas
 funcionalidades. (Por ejemplo: .adapter, decorator, bridge, composite, flyweight, façade y proxy).
 Patrones de diseño de creación: Se refieren a la instanciación de clases. Dos ideas dominantes:
+
 1. Encapsular el conocimiento sobre las clases concretas que utiliza el sistema.
+
 2. Ocultar cómo se crean y combinan las instancias de estas clases concretas.
+
 También se clasifican en patrones Object-creational (creación de objetos) y patrones Class-creational
 (creación de clases). Los patrones objeto-creación difieren parte de su creación de objetos a otro objeto,
 los patrones clase-creación difieren su creación de objetos a subclases Gang of Four. (Por ejemplo:
@@ -63,11 +66,12 @@ interpreter, iterator, memento, template method, command, visitor, strategy y me
 
 ¿Cuáles son los patrones y cuál seleccionar?
 Según el libro de GoF hay 5 enfoques principales:
-1. Repositorios de patrones y catálogos de patrones (disponibles en línea)
-2. Sistemas de recomendación (según una recomendación específica)
-3. Lenguajes formales (algunos utilizan lenguajes formales)
-4. Motores de búsqueda (Utilizan motores de búsqueda)
-5. Otros enfoques (no clasificables)
+-Repositorios de patrones y catálogos de patrones (disponibles en línea)
+-Sistemas de recomendación (según una recomendación específica)
+-Lenguajes formales (algunos utilizan lenguajes formales)
+-Motores de búsqueda (Utilizan motores de búsqueda)
+-Otros enfoques (no clasificables)
+
 Algunas cosas buenas a considerar cuando se selecciona un patrón son:
 -Considerar cómo los patrones de diseño resuelven los problemas de diseño.
 -Estudiar las secciones de intención de todos los patrones del catálogo
