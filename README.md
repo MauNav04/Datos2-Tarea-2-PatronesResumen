@@ -39,6 +39,7 @@ ayuda a los profesionales de TI que quieren aprender más o desean promover el u
 diseño.
 
 3. Catálogo de patrones de diseño
+
 Los patrones de diseño ayudan a acelerar el proceso de desarrollo al proporcionar paradigmas ya
 probados. Su reutilización mejora la legibilidad del código para los usuarios familiarizados con los
 patrones. Un inconveniente es el uso de los mismos nombres para diferentes patrones.
@@ -59,6 +60,7 @@ realizan la asignación de responsabilidades entre objetos. (Por ejemplo: observ
 interpreter, iterator, memento, template method, command, visitor, strategy y mediator).
 
 4. Cómo seleccionar un patrón de diseño
+
 ¿Cuáles son los patrones y cuál seleccionar?
 Según el libro de GoF hay 5 enfoques principales:
 1. Repositorios de patrones y catálogos de patrones (disponibles en línea)
@@ -75,6 +77,7 @@ Algunas cosas buenas a considerar cuando se selecciona un patrón son:
 -Considerar qué debe ser variable en el diseño
 
 5. Cómo utilizar los patrones de diseño
+
 Hay que leer el patrón de diseño completo, prestando especial atención a las secciones de aplicabilidad
 y consecuencias. Revisar la estructura de las secciones de participantes y colaboraciones, entender
 cómo se relacionan las clases y los objetos. Estudiar el código. Elegir nombres significativos para los
